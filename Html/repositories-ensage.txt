@@ -1,0 +1,2 @@
+<repo>https://github.com/EnsageSharp/Ensage.Common</repo>
+<repo>https://github.com/VickTheRock/ReworkAllScripts/</repo>
